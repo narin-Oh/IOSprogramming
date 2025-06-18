@@ -81,5 +81,5 @@
 | Core Data | 앱 데이터 모델링과 영속성을 관리하는 프레임워크 |
 | Git | 버전 관리 시스템으로 코드 변경 사항을 추적하고 관리 |
 
-#### **영상 시연 첨부**
+#### **2.7 영상 시연 첨부**
 https://youtube.com/shorts/2QnMTZeUsUE?si=KhedUAy4oXMFdqW4
