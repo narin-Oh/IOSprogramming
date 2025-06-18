@@ -1,0 +1,24 @@
+"/Users/mac034/Desktop/DailyQ/DailyQ/View/Stats/StatsCardView.swift":
+  diagnostics: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/StatsCardView.dia"
+  object: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/StatsCardView.o"
+  const-values: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/StatsCardView.swiftconstvalues"
+  dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/StatsCardView.d"
+  swift-dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/StatsCardView.swiftdeps"
+"/Users/mac034/Desktop/DailyQ/DailyQ/Utilities/DateFormatter+Shared.swift":
+  dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/DateFormatter+Shared.d"
+  swift-dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/DateFormatter+Shared.swiftdeps"
+  const-values: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/DateFormatter+Shared.swiftconstvalues"
+  object: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/DateFormatter+Shared.o"
+  diagnostics: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/DateFormatter+Shared.dia"
+"/Users/mac034/Desktop/DailyQ/DailyQ/Managers/DataManager.swift":
+  const-values: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/DataManager.swiftconstvalues"
+  dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/DataManager.d"
+  swift-dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/DataManager.swiftdeps"
+  object: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/DataManager.o"
+  diagnostics: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/DataManager.dia"
+"/Users/mac034/Desktop/DailyQ/DailyQ/DailyQUITests/DailyQUITests.swift":
+  dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/DailyQUITests.d"
+  swift-dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/DailyQUITests.swiftdeps"
+  const-values: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/DailyQUITests.swiftconstvalues"
+  object: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/DailyQUITests.o"
+  diagnostics: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/DailyQUITests.dia"

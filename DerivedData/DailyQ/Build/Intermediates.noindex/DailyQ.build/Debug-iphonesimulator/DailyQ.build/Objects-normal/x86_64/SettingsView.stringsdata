@@ -1,0 +1,124 @@
+{
+  "source": "/Users/mac034/Desktop/DailyQ/DailyQ/View/SettingsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "알림"
+      },
+      {
+        "comment": "",
+        "key": "설정"
+      },
+      {
+        "comment": "",
+        "key": "Back"
+      },
+      {
+        "comment": "",
+        "key": "확인"
+      },
+      {
+        "comment": "",
+        "key": "앱 환경설정"
+      },
+      {
+        "comment": "",
+        "key": "알림 설정"
+      },
+      {
+        "comment": "",
+        "key": ""
+      },
+      {
+        "comment": "",
+        "key": "푸시 알림"
+      },
+      {
+        "comment": "",
+        "key": "새로운 질문 알림을 받습니다"
+      },
+      {
+        "comment": "",
+        "key": "변경"
+      },
+      {
+        "comment": "",
+        "key": "알림 시간"
+      },
+      {
+        "comment": "",
+        "key": "테마 설정"
+      },
+      {
+        "comment": "",
+        "key": "다크 모드"
+      },
+      {
+        "comment": "",
+        "key": "어두운 테마를 사용합니다"
+      },
+      {
+        "comment": "",
+        "key": "앱 정보"
+      },
+      {
+        "comment": "",
+        "key": "버전"
+      },
+      {
+        "comment": "",
+        "key": "1.0.0"
+      },
+      {
+        "comment": "",
+        "key": "개발자"
+      },
+      {
+        "comment": "",
+        "key": "오나린"
+      },
+      {
+        "comment": "",
+        "key": "개발자 옵션"
+      },
+      {
+        "comment": "",
+        "key": "🛠️ 개발자 옵션"
+      },
+      {
+        "comment": "",
+        "key": "알림 시간 설정"
+      },
+      {
+        "comment": "",
+        "key": "시"
+      },
+      {
+        "comment": "",
+        "key": "시간"
+      },
+      {
+        "comment": "",
+        "key": "%lld시"
+      },
+      {
+        "comment": "",
+        "key": "분"
+      },
+      {
+        "comment": "",
+        "key": "%lld분"
+      },
+      {
+        "comment": "",
+        "key": "취소"
+      },
+      {
+        "comment": "",
+        "key": "저장"
+      }
+    ]
+  },
+  "version": 1
+}

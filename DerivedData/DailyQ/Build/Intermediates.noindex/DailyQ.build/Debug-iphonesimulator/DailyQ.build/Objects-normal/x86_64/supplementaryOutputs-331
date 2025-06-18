@@ -1,0 +1,30 @@
+"/Users/mac034/Desktop/DailyQ/DailyQ/View/Answer/AnswerDetailModal.swift":
+  diagnostics: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/AnswerDetailModal.dia"
+  swift-dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/AnswerDetailModal.swiftdeps"
+  dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/AnswerDetailModal.d"
+  object: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/AnswerDetailModal.o"
+  const-values: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/AnswerDetailModal.swiftconstvalues"
+"/Users/mac034/Desktop/DailyQ/DailyQ/View/Answer/AnswerView.swift":
+  diagnostics: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/AnswerView.dia"
+  const-values: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/AnswerView.swiftconstvalues"
+  swift-dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/AnswerView.swiftdeps"
+  dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/AnswerView.d"
+  object: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/AnswerView.o"
+"/Users/mac034/Desktop/DailyQ/DailyQ/View/Main/MainView.swift":
+  dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/MainView.d"
+  const-values: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/MainView.swiftconstvalues"
+  swift-dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/MainView.swiftdeps"
+  object: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/MainView.o"
+  diagnostics: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/MainView.dia"
+"/Users/mac034/Desktop/DailyQ/DailyQ/View/Components/Buttons/FillterButton.swift":
+  const-values: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/FillterButton.swiftconstvalues"
+  dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/FillterButton.d"
+  object: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/FillterButton.o"
+  swift-dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/FillterButton.swiftdeps"
+  diagnostics: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/FillterButton.dia"
+"/Users/mac034/Desktop/DailyQ/DailyQ/Managers/NetworkManager.swift":
+  object: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/NetworkManager.o"
+  swift-dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/NetworkManager.swiftdeps"
+  diagnostics: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/NetworkManager.dia"
+  dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/NetworkManager.d"
+  const-values: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/NetworkManager.swiftconstvalues"

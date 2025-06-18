@@ -1,0 +1,24 @@
+"/Users/mac034/Desktop/DailyQ/DailyQ/View/Stats/StatsView.swift":
+  object: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/StatsView.o"
+  dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/StatsView.d"
+  swift-dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/StatsView.swiftdeps"
+  const-values: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/StatsView.swiftconstvalues"
+  diagnostics: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/StatsView.dia"
+"/Users/mac034/Desktop/DailyQ/DailyQ/View/Components/Cards/StatCard.swift":
+  swift-dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/StatCard.swiftdeps"
+  object: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/StatCard.o"
+  dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/StatCard.d"
+  const-values: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/StatCard.swiftconstvalues"
+  diagnostics: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/StatCard.dia"
+"/Users/mac034/Desktop/DailyQ/DailyQ/View/Calendar/CalendarDayView.swift":
+  const-values: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/CalendarDayView.swiftconstvalues"
+  object: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/CalendarDayView.o"
+  dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/CalendarDayView.d"
+  swift-dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/CalendarDayView.swiftdeps"
+  diagnostics: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/CalendarDayView.dia"
+"/Users/mac034/Desktop/DailyQ/DailyQ/Utilities/Helpers.swift":
+  diagnostics: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/Helpers.dia"
+  const-values: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/Helpers.swiftconstvalues"
+  object: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/Helpers.o"
+  swift-dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/Helpers.swiftdeps"
+  dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/Helpers.d"

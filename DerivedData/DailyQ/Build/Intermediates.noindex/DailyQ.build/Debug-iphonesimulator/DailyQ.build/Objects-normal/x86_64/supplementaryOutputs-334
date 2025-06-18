@@ -1,0 +1,24 @@
+"/Users/mac034/Desktop/DailyQ/DailyQ/View/Todo/TodoItemView.swift":
+  diagnostics: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/TodoItemView.dia"
+  object: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/TodoItemView.o"
+  const-values: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/TodoItemView.swiftconstvalues"
+  dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/TodoItemView.d"
+  swift-dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/TodoItemView.swiftdeps"
+"/Users/mac034/Desktop/DailyQ/DailyQ/Extensions/String+Extensions.swift":
+  const-values: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/String+Extensions.swiftconstvalues"
+  dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/String+Extensions.d"
+  swift-dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/String+Extensions.swiftdeps"
+  object: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/String+Extensions.o"
+  diagnostics: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/String+Extensions.dia"
+"/Users/mac034/Desktop/DailyQ/DailyQ/View/Main/HeaderView.swift":
+  dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/HeaderView.d"
+  swift-dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/HeaderView.swiftdeps"
+  const-values: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/HeaderView.swiftconstvalues"
+  object: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/HeaderView.o"
+  diagnostics: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/HeaderView.dia"
+"/Users/mac034/Desktop/DailyQ/DailyQ/View/Settings/NotificationSettingsView.swift":
+  dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/NotificationSettingsView.d"
+  swift-dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/NotificationSettingsView.swiftdeps"
+  const-values: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/NotificationSettingsView.swiftconstvalues"
+  object: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/NotificationSettingsView.o"
+  diagnostics: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/NotificationSettingsView.dia"

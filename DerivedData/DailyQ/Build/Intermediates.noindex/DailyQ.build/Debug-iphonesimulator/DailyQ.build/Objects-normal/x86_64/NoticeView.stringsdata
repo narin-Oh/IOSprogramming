@@ -1,0 +1,16 @@
+{
+  "source": "/Users/mac034/Desktop/DailyQ/DailyQ/View/NoticeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "공지사항"
+      },
+      {
+        "comment": "",
+        "key": "Daily Q의 새로운 소식"
+      }
+    ]
+  },
+  "version": 1
+}

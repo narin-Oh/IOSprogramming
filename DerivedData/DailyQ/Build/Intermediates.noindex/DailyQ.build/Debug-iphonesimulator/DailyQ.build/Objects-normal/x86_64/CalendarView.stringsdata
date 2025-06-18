@@ -1,0 +1,60 @@
+{
+  "source": "/Users/mac034/Desktop/DailyQ/DailyQ/View/CalendarView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "기록 보기"
+      },
+      {
+        "comment": "",
+        "key": "Back"
+      },
+      {
+        "comment": "",
+        "key": "선택된 날짜"
+      },
+      {
+        "comment": "",
+        "key": "선택된 날짜 기록"
+      },
+      {
+        "comment": "",
+        "key": "오늘의 질문"
+      },
+      {
+        "comment": "",
+        "key": "아직 답변이 작성되지 않았습니다."
+      },
+      {
+        "comment": "",
+        "key": "나의 답변"
+      },
+      {
+        "comment": "",
+        "key": "✅"
+      },
+      {
+        "comment": "",
+        "key": "할 일 목록"
+      },
+      {
+        "comment": "",
+        "key": "⭕"
+      },
+      {
+        "comment": "",
+        "key": "📋"
+      },
+      {
+        "comment": "",
+        "key": "선택한 날짜에 등록된 데이터가 없습니다."
+      },
+      {
+        "comment": "",
+        "key": "질문이나 할 일을 추가해보세요!"
+      }
+    ]
+  },
+  "version": 1
+}

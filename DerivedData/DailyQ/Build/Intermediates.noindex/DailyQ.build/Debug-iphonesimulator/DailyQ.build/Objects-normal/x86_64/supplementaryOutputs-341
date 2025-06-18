@@ -1,0 +1,24 @@
+"/Users/mac034/Desktop/DailyQ/DailyQ/View/Stats/ChartView.swift":
+  swift-dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/ChartView.swiftdeps"
+  object: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/ChartView.o"
+  diagnostics: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/ChartView.dia"
+  dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/ChartView.d"
+  const-values: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/ChartView.swiftconstvalues"
+"/Users/mac034/Desktop/DailyQ/DailyQ/Extensions/Color+Extensions.swift":
+  object: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/Color+Extensions.o"
+  const-values: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/Color+Extensions.swiftconstvalues"
+  swift-dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/Color+Extensions.swiftdeps"
+  diagnostics: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/Color+Extensions.dia"
+  dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/Color+Extensions.d"
+"/Users/mac034/Desktop/DailyQ/DailyQ/View/Todo/TodoInputView.swift":
+  dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/TodoInputView.d"
+  const-values: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/TodoInputView.swiftconstvalues"
+  diagnostics: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/TodoInputView.dia"
+  object: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/TodoInputView.o"
+  swift-dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/TodoInputView.swiftdeps"
+"/Users/mac034/Desktop/DailyQ/DailyQ/View/Components/Cards/InfoCard.swift":
+  swift-dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/InfoCard.swiftdeps"
+  object: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/InfoCard.o"
+  dependencies: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/InfoCard.d"
+  diagnostics: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/InfoCard.dia"
+  const-values: "/Users/mac034/Desktop/DailyQ/DerivedData/DailyQ/Build/Intermediates.noindex/DailyQ.build/Debug-iphonesimulator/DailyQ.build/Objects-normal/x86_64/InfoCard.swiftconstvalues"

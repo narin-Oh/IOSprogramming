@@ -1,0 +1,52 @@
+{
+  "source": "/Users/mac034/Desktop/DailyQ/DailyQ/View/DailyQView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "오늘의 질문"
+      },
+      {
+        "comment": "",
+        "key": "Back"
+      },
+      {
+        "comment": "",
+        "key": "확인"
+      },
+      {
+        "comment": "",
+        "key": "Daily Q"
+      },
+      {
+        "comment": "",
+        "key": "새로운 소식"
+      },
+      {
+        "comment": "",
+        "key": "질문을 불러오는 중입니다..."
+      },
+      {
+        "comment": "",
+        "key": "질문을 생성하고 있습니다..."
+      },
+      {
+        "comment": "",
+        "key": "나의 답변"
+      },
+      {
+        "comment": "",
+        "key": "여기에 오늘의 답변을 작성해보세요"
+      },
+      {
+        "comment": "",
+        "key": "답변 저장하기"
+      },
+      {
+        "comment": "",
+        "key": "답변 수정하기"
+      }
+    ]
+  },
+  "version": 1
+}

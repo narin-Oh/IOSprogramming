@@ -1,0 +1,40 @@
+{
+  "source": "/Users/mac034/Desktop/DailyQ/DailyQ/DailyQApp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Daily Q"
+      },
+      {
+        "comment": "",
+        "key": "프로필 설정"
+      },
+      {
+        "comment": "",
+        "key": "취소"
+      },
+      {
+        "comment": "",
+        "key": "프로필 사진을 설정하세요"
+      },
+      {
+        "comment": "",
+        "key": "프로필 사진 변경"
+      },
+      {
+        "comment": "",
+        "key": "카메라"
+      },
+      {
+        "comment": "",
+        "key": "사진 라이브러리"
+      },
+      {
+        "comment": "",
+        "key": "사진 삭제"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,32 @@
+{
+  "source": "/Users/mac034/Desktop/DailyQ/DailyQ/View/AnswerView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "나의 답변"
+      },
+      {
+        "comment": "",
+        "key": "지금까지 작성한 답변들"
+      },
+      {
+        "comment": "",
+        "key": "답변 상세"
+      },
+      {
+        "comment": "",
+        "key": "질문"
+      },
+      {
+        "comment": "",
+        "key": "답변"
+      },
+      {
+        "comment": "",
+        "key": "닫기"
+      }
+    ]
+  },
+  "version": 1
+}

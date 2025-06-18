@@ -1,0 +1,44 @@
+{
+  "source": "/Users/mac034/Desktop/DailyQ/DailyQ/View/TodoView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "알림"
+      },
+      {
+        "comment": "",
+        "key": "할일관리"
+      },
+      {
+        "comment": "",
+        "key": "Back"
+      },
+      {
+        "comment": "",
+        "key": "확인"
+      },
+      {
+        "comment": "",
+        "key": "나의 할 일"
+      },
+      {
+        "comment": "",
+        "key": "새로운 할 일을 입력하세요"
+      },
+      {
+        "comment": "",
+        "key": "완료"
+      },
+      {
+        "comment": "",
+        "key": "할 일이 없습니다"
+      },
+      {
+        "comment": "",
+        "key": "새로운 할 일을 추가해보세요!"
+      }
+    ]
+  },
+  "version": 1
+}

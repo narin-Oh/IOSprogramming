@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'DailyQ' in project 'DailyQ' (no dependencies)
+Target 'DailyQ' in project 'DailyQ' (no dependencies)
