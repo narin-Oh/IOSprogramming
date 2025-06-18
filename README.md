@@ -54,7 +54,36 @@
   - 테마 변경 (다크 모드 지원)
   - 앱 정보 및 버전 확인
 
-#### **2.3 결과물**
+### **2.3 결과물**
+#### **앱 주요 화면**
+
+| 메인 화면                                                                                   | 메뉴 화면                                                                                    | 알림 설정                                                                                       |
+| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| ![](https://github.com/narin-Oh/IOSprogramming/blob/main/resultImage/main.png?raw=true) | ![](https://github.com/narin-Oh/IOSprogramming/blob/main/resultImage/main2.png?raw=true) | ![](https://github.com/narin-Oh/IOSprogramming/blob/main/resultImage/setting2.png?raw=true) |
+
+#### **질문과 답변 기능**
+
+| 질문 화면                                                                                        | 답변 작성                                                                                        | 답변 기록                                                                                       |
+| -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| ![](https://github.com/narin-Oh/IOSprogramming/blob/main/resultImage/Question1.png?raw=true) | ![](https://github.com/narin-Oh/IOSprogramming/blob/main/resultImage/Question2.png?raw=true) | ![](https://github.com/narin-Oh/IOSprogramming/blob/main/resultImage/myanswer.png?raw=true) |
+
+#### **투두리스트 기능**
+
+| 투두 입력                                                                                    | 투두 목록                                                                                    |
+| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| ![](https://github.com/narin-Oh/IOSprogramming/blob/main/resultImage/Todo1.png?raw=true) | ![](https://github.com/narin-Oh/IOSprogramming/blob/main/resultImage/Todo2.png?raw=true) |
+
+#### **캘린더 및 통계**
+
+| 캘린더 화면                                                                                       | 활동 통계                                                                                     |
+| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| ![](https://github.com/narin-Oh/IOSprogramming/blob/main/resultImage/calendar1.png?raw=true) | ![](https://github.com/narin-Oh/IOSprogramming/blob/main/resultImage/status.png?raw=true) |
+
+#### **공지 및 기타 설정**
+
+| 공지사항                                                                                      | 앱 설정                                                                                       |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| ![](https://github.com/narin-Oh/IOSprogramming/blob/main/resultImage/notice.png?raw=true) | ![](https://github.com/narin-Oh/IOSprogramming/blob/main/resultImage/setting.png?raw=true) |
 
 #### **2.4 기대효과**
 
